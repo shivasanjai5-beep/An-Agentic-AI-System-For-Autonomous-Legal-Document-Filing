@@ -1,0 +1,9 @@
+cd backend
+python -m uvicorn main:app --reload
+
+
+cd frontend
+npm run dev
+
+
+arcee-ai/trinity-large-preview:free
